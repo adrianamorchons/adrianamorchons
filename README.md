@@ -18,7 +18,7 @@
 
 ### 📫 Conectemos
 *   **GitHub:** [https://github.com/adrianamorchons]
-*   **LinkedIn:** [adriana-morchons]([https://linkedin.com](https://www.linkedin.com/in/adrianamorchonsantiago/))
+*   **LinkedIn:** [https://www.linkedin.com/in/adrianamorchonsantiago/]
 <!--
 **adrianamorchons/adrianamorchons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
