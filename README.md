@@ -3,12 +3,9 @@
 **Data Analyst** con experiencia en **Marketing**. y **Customer Experience**. Transformo datos en historias visuales para optimizar campañas y entender al consumidor. Aquí comparto mis proyectos personales en constante actualización, con datos reales, centrados en análisis de tendencias, comportamiento de usuarios y optimización de mercado.
 
 ---
-
 ### 🛠️ Mi Stack Tecnológico
 
-### 🛠️ Mi Stack Tecnológico
-
-![Python](https://shields.io) ![Plotly](https://shields.io) ![Seaborn](https://shields.io) ![Matplotlib](https://shields.io)
+`Python` | `Plotly` | `Seaborn` | `Matplotlib`
 
 ---
 
