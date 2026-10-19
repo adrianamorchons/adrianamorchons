@@ -6,14 +6,9 @@
 
 ### 🛠️ Mi Stack Tecnológico
 
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Plotly" />
-  <img src="https://shields.io" alt="Seaborn" />
-  <img src="https://shields.io" alt="Matplotlib" />
-</p>
+### 🛠️ Mi Stack Tecnológico
 
-
+![Python](https://shields.io) ![Plotly](https://shields.io) ![Seaborn](https://shields.io) ![Matplotlib](https://shields.io)
 
 ---
 
