@@ -5,7 +5,7 @@
 ---
 ### 🛠️ Mi Stack Tecnológico
 
-`Python` | `Plotly` | `Seaborn` | `Matplotlib`
+`Python` | `Plotly` | `Seaborn` | `Matplotlib` | `PostgreSQL`| `DBeaver`
 
 ---
 
