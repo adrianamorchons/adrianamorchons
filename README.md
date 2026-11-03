@@ -17,9 +17,9 @@
 ---
 
 ### 📫 Conectemos
-<!-- Enlaces a redes y portafolio -->
-[![GitHub](https://shields.io)](https://github.com/adrianamorchons)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+<!-- Enlaces a redes y portafolio con iconos corregidos -->
+[![GitHub](https://shields.io)](https://www.github.com/adrianamorchons)
+[![LinkedIn](https://shields.io)](https://linkedin.com/](https://www.linkedin.com/in/adrianamorchonsantiago/)
 <!-- Contador de visitas al perfil (reemplaza TU_USUARIO) -->
 ![](https://komarev.com)
 
