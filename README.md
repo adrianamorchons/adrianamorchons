@@ -17,11 +17,8 @@
 ---
 
 ### 📫 Conectemos
-<!-- Enlaces a redes y portafolio con iconos corregidos -->
-[![GitHub](https://shields.io)](https://www.github.com/adrianamorchons)
-[![LinkedIn](https://shields.io)](https://linkedin.com/](https://www.linkedin.com/in/adrianamorchonsantiago/)
-<!-- Contador de visitas al perfil (reemplaza TU_USUARIO) -->
-![](https://komarev.com)
+**LINKEDIN**: https://www.linkedin.com/in/adrianamorchonsantiago/
+**GitHub**: https://www.github.com/adrianamorchons
 
 <!--
 **adrianamorchons/adrianamorchons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
