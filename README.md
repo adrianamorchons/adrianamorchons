@@ -20,14 +20,21 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 
 ### 🛠️ Stack Tecnológico
 
-Python | Plotly | Seaborn | Matplotlib | PostgreSQL | SQL | DBeaver | Excel | ScikitLearn 
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
-### 🛠️ Stack Tecnológico
+* **Lenguajes y Modelado:** `Python (Scikit-Learn)` | `SQL`
+* **Bases de Datos y Herramientas:** `PostgreSQL` | `DBeaver` | `Microsoft Excel`
+* **Librerías de Visualización:** `Plotly` | `Seaborn` | `Matplotlib`
 
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="scikit-learn" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="DBeaver" /> <img src="https://shields.io" alt="Excel" />
+#### Competencias
+- Análisis exploratorio de datos (EDA)
+- **Segmentación y Clustering (K-Means)**
+- Data visualization
+- Marketing analytics
+- Customer Experience
+- Reporting y dashboards
+- Análisis de comportamiento del cliente
 
-#### Librerías de Visualización
-<img src="https://shields.io" alt="Plotly" /> <img src="https://shields.io" alt="Seaborn" /> <img src="https://shields.io" alt="Matplotlib" />
 
 
 #### Competencias
