@@ -22,16 +22,13 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 
 Python | Plotly | Seaborn | Matplotlib | PostgreSQL | SQL | DBeaver | Excel | ScikitLearn 
 
-![Python](https://shields.io)
-![scikit-learn](https://shields.io)
-![PostgreSQL](https://shields.io)
-![SQL](https://shields.io)
-![Excel](https://shields.io)
+### 🛠️ Stack Tecnológico
+
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="scikit-learn" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="DBeaver" /> <img src="https://shields.io" alt="Excel" />
 
 #### Librerías de Visualización
-![Plotly](https://shields.io)
-![Seaborn](https://shields.io)
-![Matplotlib](https://shields.io)
+<img src="https://shields.io" alt="Plotly" /> <img src="https://shields.io" alt="Seaborn" /> <img src="https://shields.io" alt="Matplotlib" />
+
 
 #### Competencias
 - Análisis exploratorio de datos (EDA)
