@@ -2,7 +2,7 @@
 
 ## ¡Saludos! 👋
 
-Soy una Data Analyst con experiencia en Marketing y Customer Experience, enfocada en transformar datos en insights accionables para mejorar estrategias de negocio, optimizar campañas y entender mejor al consumidor.
+Soy Data Analyst con experiencia en Marketing y Customer Experience, enfocada en transformar datos en insights accionables para mejorar estrategias de negocio, optimizar campañas y entender mejor al consumidor.
 
 Mi objetivo es convertir la información en decisiones más inteligentes, combinando análisis, visualización y storytelling para comunicar resultados de forma clara y efectiva.
 
@@ -11,6 +11,7 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 ### 👩‍💻 Sobre mí
 
 - Análisis de datos con enfoque comercial y de experiencia del cliente
+- Modelado predictivo, y simulaciones mediante clustering (k-means) en Python  
 - Visualización de datos para comunicar insights de manera clara
 - Optimización de campañas, segmentación y análisis de comportamiento
 - Trabajo con datos para apoyar decisiones estratégicas y operativas
@@ -19,7 +20,7 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 
 ### 🛠️ Stack Tecnológico
 
-Python | Plotly | Seaborn | Matplotlib | PostgreSQL | SQL | DBeaver | Excel
+Python | Plotly | Seaborn | Matplotlib | PostgreSQL | SQL | DBeaver | Excel | ScikitLearn 
 
 #### Competencias
 - Análisis exploratorio de datos
@@ -43,7 +44,7 @@ Python | Plotly | Seaborn | Matplotlib | PostgreSQL | SQL | DBeaver | Excel
 
 ### 📊 Enfoque de trabajo
 
-Me apasiona explorar datasets complejos, identificar oportunidades de mejora y generar visualizaciones que ayuden a comprender patrones ocultos y convertirlos en decisiones con impacto real.
+Me apasiona explorar datasets complejos, aplicar modelos estadísticos y de clustering para identificar oportunidades de mejora, y generar visualizaciones avanzadas que ayuden a comprender patrones ocultos y convertirlos en decisiones con impacto real.
 
 ---
 
@@ -56,7 +57,7 @@ Me apasiona explorar datasets complejos, identificar oportunidades de mejora y g
 
 ### 🌱 Actualmente
 
-Estoy ampliando mi experiencia en análisis avanzado de datos, visualización y automatización de procesos para seguir desarrollando soluciones con mayor valor analítico y estratégico.<!--
+Estoy ampliando mi experiencia en análisis avanzado de datos, visualización y automatización de procesos para seguir desarrollando soluciones con mayor valor analítico y estratégico.
 
 
 
