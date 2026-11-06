@@ -23,7 +23,8 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 Python | Plotly | Seaborn | Matplotlib | PostgreSQL | SQL | DBeaver | Excel | ScikitLearn 
 
 #### Competencias
-- Análisis exploratorio de datos
+- Análisis exploratorio de datos (EDA)
+- Segmentación y Clustering (K-Means)
 - Data visualization
 - Marketing analytics
 - Customer Experience
