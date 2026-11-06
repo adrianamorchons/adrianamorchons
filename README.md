@@ -22,6 +22,17 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 
 Python | Plotly | Seaborn | Matplotlib | PostgreSQL | SQL | DBeaver | Excel | ScikitLearn 
 
+![Python](https://shields.io)
+![scikit-learn](https://shields.io)
+![PostgreSQL](https://shields.io)
+![SQL](https://shields.io)
+![Excel](https://shields.io)
+
+#### Librerías de Visualización
+![Plotly](https://shields.io)
+![Seaborn](https://shields.io)
+![Matplotlib](https://shields.io)
+
 #### Competencias
 - Análisis exploratorio de datos (EDA)
 - Segmentación y Clustering (K-Means)
