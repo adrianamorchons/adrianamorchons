@@ -15,11 +15,7 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 - Visualización de datos para comunicar insights de manera clara
 - Optimización de campañas, segmentación y análisis de comportamiento
 - Trabajo con datos para apoyar decisiones estratégicas y operativas
-
 ---
-
-### 🛠️ Stack Tecnológico
-
 ### 🛠️ Stack Tecnológico
 
 | Categoría | Herramientas y Librerías |
@@ -37,19 +33,6 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 - Customer Experience
 - Reporting y dashboards
 - Análisis de comportamiento del cliente
-
-
-
-
-#### Competencias
-- Análisis exploratorio de datos (EDA)
-- Segmentación y Clustering (K-Means)
-- Data visualization
-- Marketing analytics
-- Customer Experience
-- Reporting y dashboards
-- Análisis de comportamiento del cliente
-
 ---
 
 ### 🚀 Proyectos Destacados
