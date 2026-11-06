@@ -20,11 +20,14 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 
 ### 🛠️ Stack Tecnológico
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### 🛠️ Stack Tecnológico
 
-* **Lenguajes y Modelado:** `Python (Scikit-Learn)` | `SQL`
-* **Bases de Datos y Herramientas:** `PostgreSQL` | `DBeaver` | `Microsoft Excel`
-* **Librerías de Visualización:** `Plotly` | `Seaborn` | `Matplotlib`
+| Categoría | Herramientas y Librerías |
+| :--- | :--- |
+| **🐍 Lenguajes y Modelado** | `Python (Scikit-Learn)` \| `SQL` |
+| **🗄️ Bases de Datos** | `PostgreSQL` \| `DBeaver` |
+| **📈 Visualización** | `Plotly` \| `Seaborn` \| `Matplotlib` |
+| **📊 Hojas de Cálculo** | `Microsoft Excel` |
 
 #### Competencias
 - Análisis exploratorio de datos (EDA)
@@ -34,6 +37,7 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 - Customer Experience
 - Reporting y dashboards
 - Análisis de comportamiento del cliente
+
 
 
 
