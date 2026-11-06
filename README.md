@@ -49,7 +49,7 @@ Me apasiona explorar datasets complejos, aplicar modelos estadísticos y de clus
 
 ---
 
-### 📫 Conéctate conmigo
+### 📫 Conecta conmigo
 
 - LinkedIn: https://www.linkedin.com/in/adrianamorchonsantiago/
 - GitHub: https://github.com/adrianamorchons
