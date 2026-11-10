@@ -1,66 +1,45 @@
+# ¡Hola! Soy Adriana 👋
 
+### Data Analyst | Marketing Analytics & Customer Experience
 
-## ¡Saludos! 👋
+Analizo datos para entender el comportamiento de clientes y mercados, detectar oportunidades y convertir hallazgos en recomendaciones útiles para el negocio. Combino análisis, visualización y storytelling para comunicar resultados de forma clara.
 
-Soy Data Analyst con experiencia en Marketing y Customer Experience, enfocada en transformar datos en insights accionables para mejorar estrategias de negocio, optimizar campañas y entender mejor al consumidor.
+## 👩‍💻 Sobre mí
 
-Mi objetivo es convertir la información en decisiones más inteligentes, combinando análisis, visualización y storytelling para comunicar resultados de forma clara y efectiva.
+- Análisis de datos con enfoque comercial y de experiencia del cliente.
+- Exploración de datos, segmentación y clustering con Python.
+- Análisis de campañas, demanda y comportamiento del cliente.
+- Visualización de información para facilitar la toma de decisiones.
+- Interés en seguir creciendo en análisis avanzado y automatización.
 
----
+## 🧰 Herramientas
 
-### 👩‍💻 Sobre mí
-
-- Análisis de datos con enfoque comercial y de experiencia del cliente
-- Modelado predictivo, y simulaciones mediante clustering (k-means) en Python  
-- Visualización de datos para comunicar insights de manera clara
-- Optimización de campañas, segmentación y análisis de comportamiento
-- Trabajo con datos para apoyar decisiones estratégicas y operativas
----
-### 🛠️ Stack Tecnológico
-
-| Categoría | Herramientas y Librerías |
+| Área | Herramientas |
 | :--- | :--- |
-| **🐍 Lenguajes y Modelado** | `Python (Scikit-Learn)` \| `SQL` |
-| **🗄️ Bases de Datos** | `PostgreSQL` \| `DBeaver` |
-| **📈 Visualización** | `Plotly` \| `Seaborn` \| `Matplotlib` |
-| **📊 Hojas de Cálculo** | `Microsoft Excel` |
+| Programación y análisis | Python, SQL, Scikit-learn |
+| Bases de datos | PostgreSQL, DBeaver |
+| Visualización | Plotly, Seaborn, Matplotlib |
+| Hojas de cálculo | Microsoft Excel |
 
-#### Competencias
-- Análisis exploratorio de datos (EDA)
-- **Segmentación y Clustering (K-Means)**
-- Data visualization
-- Marketing analytics
-- Customer Experience
-- Reporting y dashboards
-- Análisis de comportamiento del cliente
----
+**Competencias:** análisis exploratorio de datos (EDA), K-Means, marketing analytics, Customer Experience, reporting, dashboards y análisis del comportamiento del cliente.
 
-### 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
-* **[Análisis de Precios de BMW](https://github.com/adrianamorchons/analisis_precios_bmw_2026/blob/main/ANALISIS_BMW_PRECIOS_2026.ipynb)**  
-  Estudio del mercado automovilístico con análisis de tendencias, comparativas y comportamiento de precios.
+### [Análisis de precios de BMW](https://github.com/adrianamorchons/analisis_precios_bmw_2026/blob/main/ANALISIS_BMW_PRECIOS_2026.ipynb)
+Estudio del mercado automovilístico centrado en tendencias, comparativas y comportamiento de precios.
 
-* **[Estudio de Movilidad BIKI Valladolid](https://github.com/adrianamorchons/estudio_bicicletas_biki_valladolid)**  
-  Análisis exhaustivo del servicio público de alquiler de bicicletas para identificar patrones de uso, demanda y comportamiento según horarios y zonas.
+### [Estudio de movilidad BIKI Valladolid](https://github.com/adrianamorchons/estudio_bicicletas_biki_valladolid)
+Análisis del servicio público de bicicletas para explorar patrones de uso y demanda según horarios y zonas.
 
----
+## 📊 Cómo trabajo
 
-### 📊 Enfoque de trabajo
+Parto de una pregunta de negocio, exploro y preparo los datos, analizo patrones y comunico los resultados con visualizaciones y conclusiones comprensibles. Mi objetivo es que el análisis ayude a identificar oportunidades y tomar decisiones mejor fundamentadas.
 
-Me apasiona explorar datasets complejos, aplicar modelos estadísticos y de clustering para identificar oportunidades de mejora, y generar visualizaciones avanzadas que ayuden a comprender patrones ocultos y convertirlos en decisiones con impacto real.
+## 🌱 Actualmente
 
----
+Estoy ampliando mi experiencia en análisis avanzado de datos, visualización y automatización de procesos.
 
-### 📫 Conecta conmigo
+## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/adrianamorchonsantiago/
-- GitHub: https://github.com/adrianamorchons
-
----
-
-### 🌱 Actualmente
-
-Estoy ampliando mi experiencia en análisis avanzado de datos, visualización y automatización de procesos para seguir desarrollando soluciones con mayor valor analítico y estratégico.
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/adrianamorchonsantiago/)
+- [GitHub](https://github.com/adrianamorchons)
