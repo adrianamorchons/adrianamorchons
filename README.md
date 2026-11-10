@@ -20,7 +20,7 @@ Mi objetivo es convertir la información en decisiones más inteligentes, combin
 
 | Categoría | Herramientas y Librerías |
 | :--- | :--- |
-| **🐍 Lenguajes y Modelado** | `Python (Scikit-Learn)` \| `SQL` | `Clustering K-means`|
+| **🐍 Lenguajes y Modelado** | `Python (Scikit-Learn)` \| `SQL` |
 | **🗄️ Bases de Datos** | `PostgreSQL` \| `DBeaver` |
 | **📈 Visualización** | `Plotly` \| `Seaborn` \| `Matplotlib` |
 | **📊 Hojas de Cálculo** | `Microsoft Excel` |
