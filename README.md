@@ -21,6 +21,11 @@ Analizo datos para entender el comportamiento de clientes y mercados, detectar o
 | Visualización | Plotly, Seaborn, Matplotlib |
 | Hojas de cálculo | Microsoft Excel |
 
+<div align="center">
+  <img src="https://vercel.app" alt="Most Used Languages" />
+</div>
+
+
 **Competencias:** análisis exploratorio de datos (EDA), K-Means, marketing analytics, Customer Experience, reporting, dashboards y análisis del comportamiento del cliente.
 
 ## 🚀 Proyectos
